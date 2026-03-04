@@ -1,0 +1,24 @@
+{
+  "name": "codespacestest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "jest --verbose"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlejandraS15/CodeSpacesTest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/AlejandraS15/CodeSpacesTest/issues"
+  },
+  "homepage": "https://github.com/AlejandraS15/CodeSpacesTest#readme",
+  "devDependencies": {
+    "jest": "^30.2.0"
+  }
+}
